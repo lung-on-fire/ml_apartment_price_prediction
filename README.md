@@ -37,8 +37,6 @@ This notebook demonstrates a machine learning pipeline for predicting housing pr
 The dataset is originally from the [Two Sigma Connect: Rental Listing Inquiries competition on Kaggle](https://www.kaggle.com/competitions/two-sigma-connect-rental-listing-inquiries/overview).
 
 
-
-```markdown
 # Housing Price Prediction using Linear Regression and Gradient Boosting
 
 This notebook demonstrates a machine learning pipeline for predicting housing prices, primarily focusing on linear regression and gradient boosting models. The dataset used is from the Two Sigma Connect: Rental Listing Inquiries competition on Kaggle.
